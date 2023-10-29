@@ -45,6 +45,11 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Generate Modules
+```bash
+nest g module <name>
+```
+
 ## Test
 
 ```bash
